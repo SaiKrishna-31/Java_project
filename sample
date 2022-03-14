@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Ubuntu <ubuntu@ip-172-31-91-73.ec2.internal>
+#
+# On branch main
+# Changes to be committed:
+#	new file:   sample
+#
+# Untracked files:
+#	.bash_history
+#	.bash_logout
+#	.bashrc
+#	.cache/
+#	.profile
+#	.ssh/
+#	.sudo_as_admin_successful
+#	.viminfo
+#	.wget-hsts
+#
